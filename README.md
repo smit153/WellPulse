@@ -117,7 +117,7 @@ npm run dev
 - admin passcode: 123456
 
 ## Output Video
-https://github.com/MihirRajeshPanchal/ThinQ/assets/78205431/1a576f91-0fad-4d6c-b3ec-74c3ccf449b9
+https://github.com/smit153/WellPulse/blob/master/output.mp4
 
 ## License
 
