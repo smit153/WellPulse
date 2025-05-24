@@ -116,6 +116,9 @@ npm run dev
 
 - admin passcode: 123456
 
+## Output Video
+https://github.com/MihirRajeshPanchal/ThinQ/assets/78205431/1a576f91-0fad-4d6c-b3ec-74c3ccf449b9
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
